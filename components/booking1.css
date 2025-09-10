@@ -200,21 +200,6 @@
   background-color: #407540;
 }
  
-.booking1-container2 {
-  gap: 32px;
-  width: 100%;
-  display: flex;
-  align-self: stretch;
-  align-items: flex-start;
-  flex-shrink: 0;
-  animation-name: fadeIn;
-  animation-delay: 0s;
-  animation-duration: 300ms;
-  animation-direction: normal;
-  animation-iteration-count: 1;
-  animation-timing-function: ease;
-}
- 
 .booking1-column4 {
   gap: var(--dl-layout-space-twounits);
   flex: 1;
@@ -801,13 +786,7 @@
   }
   .booking1-column3 {
     width: 100%;
-  }
-  .booking1-container2 {
-    flex-direction: column;
-  }
-  .booking1-column6 {
-    width: 100%;
-  }
+  }  }
 }
  
 @media(max-width: 479px) {

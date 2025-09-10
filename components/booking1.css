@@ -1,0 +1,839 @@
+.booking1-pricing23 {
+  width: 100%;
+  height: auto;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+ 
+.booking1-max-width {
+  gap: var(--dl-layout-space-threeunits);
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.booking1-section-title {
+  gap: var(--dl-layout-space-unit);
+  width: 100%;
+  display: flex;
+  max-width: 800px;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+ 
+.booking1-content {
+  gap: var(--dl-layout-space-oneandhalfunits);
+  width: 100%;
+  display: flex;
+  max-width: 800px;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.booking1-text10 {
+  text-align: center;
+}
+ 
+.booking1-container1 {
+  gap: var(--dl-layout-space-twounits);
+  width: 100%;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  animation-name: fadeIn;
+  animation-delay: 0s;
+  animation-duration: 300ms;
+  animation-direction: normal;
+  animation-iteration-count: 1;
+  animation-timing-function: ease;
+}
+ 
+.booking1-column1 {
+  gap: var(--dl-layout-space-twounits);
+  flex: 1;
+  width: 100%;
+  display: flex;
+  flex-grow: 1;
+  align-self: stretch;
+  align-items: center;
+  border-color: var(--dl-color-theme-neutral-dark);
+  border-style: solid;
+  border-width: 1px;
+  flex-direction: column;
+}
+ 
+.booking1-price10 {
+  gap: var(--dl-layout-space-twounits);
+  height: 134px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.booking1-price11 {
+  gap: var(--dl-layout-space-halfunit);
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.booking1-text11 {
+  font-style: normal;
+  font-weight: 600;
+}
+ 
+.booking1-text12 {
+  font-size: 48px;
+}
+ 
+.booking1-button1 {
+  color: #ffffff;
+  width: 100%;
+  border-color: #ffffff;
+  text-decoration: none;
+  background-color: #407540;
+}
+ 
+.booking1-column2 {
+  gap: var(--dl-layout-space-twounits);
+  flex: 1;
+  width: 100%;
+  display: flex;
+  flex-grow: 1;
+  align-self: stretch;
+  align-items: center;
+  border-color: var(--dl-color-theme-neutral-dark);
+  border-style: solid;
+  border-width: 1px;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 0);
+}
+ 
+.booking1-price12 {
+  gap: var(--dl-layout-space-twounits);
+  height: 134px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.booking1-price13 {
+  gap: var(--dl-layout-space-halfunit);
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.booking1-text15 {
+  font-style: normal;
+  font-weight: 600;
+}
+ 
+.booking1-text16 {
+  font-size: 48px;
+}
+ 
+.booking1-button2 {
+  width: 100%;
+  border-color: #ffffff;
+  text-decoration: none;
+  background-color: #407540;
+}
+ 
+.booking1-column3 {
+  gap: var(--dl-layout-space-twounits);
+  flex: 1;
+  width: 100%;
+  display: flex;
+  flex-grow: 1;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: var(--dl-color-theme-neutral-dark);
+  border-style: solid;
+  border-width: 1px;
+  flex-direction: column;
+  background-color: rgba(245, 209, 176, 0);
+}
+ 
+.booking1-price14 {
+  gap: var(--dl-layout-space-twounits);
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.booking1-price15 {
+  gap: var(--dl-layout-space-halfunit);
+  height: 137px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.booking1-text19 {
+  font-style: normal;
+  font-weight: 600;
+}
+ 
+.booking1-text20 {
+  font-size: 48px;
+}
+ 
+.booking1-button3 {
+  width: 100%;
+  border-color: #ffffff;
+  text-decoration: none;
+  background-color: #407540;
+}
+ 
+.booking1-container2 {
+  gap: 32px;
+  width: 100%;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  animation-name: fadeIn;
+  animation-delay: 0s;
+  animation-duration: 300ms;
+  animation-direction: normal;
+  animation-iteration-count: 1;
+  animation-timing-function: ease;
+}
+ 
+.booking1-column4 {
+  gap: var(--dl-layout-space-twounits);
+  flex: 1;
+  width: 100%;
+  display: flex;
+  flex-grow: 1;
+  align-self: stretch;
+  align-items: center;
+  border-color: var(--dl-color-theme-neutral-dark);
+  border-style: solid;
+  border-width: 1px;
+  flex-direction: column;
+}
+ 
+.booking1-icon10 {
+  width: var(--dl-layout-size-small);
+  height: var(--dl-layout-size-small);
+  align-self: flex-end;
+}
+ 
+.booking1-price16 {
+  gap: var(--dl-layout-space-twounits);
+  display: flex;
+  flex-grow: 1;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.booking1-price17 {
+  gap: var(--dl-layout-space-halfunit);
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.booking1-text23 {
+  font-style: normal;
+  font-weight: 600;
+}
+ 
+.booking1-text24 {
+  font-size: 48px;
+}
+ 
+.booking1-list1 {
+  gap: var(--dl-layout-space-unit);
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.booking1-list-item10 {
+  gap: var(--dl-layout-space-unit);
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.booking1-list-item11 {
+  gap: var(--dl-layout-space-unit);
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.booking1-list-item12 {
+  gap: var(--dl-layout-space-unit);
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.booking1-button4 {
+  width: 100%;
+}
+ 
+.booking1-column5 {
+  gap: var(--dl-layout-space-twounits);
+  flex: 1;
+  width: 100%;
+  display: flex;
+  flex-grow: 1;
+  align-self: stretch;
+  align-items: center;
+  border-color: var(--dl-color-theme-neutral-dark);
+  border-style: solid;
+  border-width: 1px;
+  flex-direction: column;
+  background-color: var(--dl-color-theme-accent1);
+}
+ 
+.booking1-icon22 {
+  width: var(--dl-layout-size-small);
+  height: var(--dl-layout-size-small);
+  align-self: flex-end;
+}
+ 
+.booking1-price18 {
+  gap: var(--dl-layout-space-twounits);
+  display: flex;
+  flex-grow: 1;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.booking1-price19 {
+  gap: var(--dl-layout-space-halfunit);
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.booking1-text30 {
+  font-style: normal;
+  font-weight: 600;
+}
+ 
+.booking1-text31 {
+  font-size: 48px;
+}
+ 
+.booking1-list2 {
+  gap: var(--dl-layout-space-unit);
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.booking1-list-item13 {
+  gap: var(--dl-layout-space-unit);
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.booking1-list-item14 {
+  gap: var(--dl-layout-space-unit);
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.booking1-list-item15 {
+  gap: var(--dl-layout-space-unit);
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.booking1-list-item16 {
+  gap: var(--dl-layout-space-unit);
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.booking1-button5 {
+  width: 100%;
+}
+ 
+.booking1-column6 {
+  gap: var(--dl-layout-space-twounits);
+  flex: 1;
+  width: 100%;
+  display: flex;
+  flex-grow: 1;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: var(--dl-color-theme-neutral-dark);
+  border-style: solid;
+  border-width: 1px;
+  flex-direction: column;
+  background-color: var(--dl-color-theme-accent2);
+}
+ 
+.booking1-icon32 {
+  width: var(--dl-layout-size-small);
+  height: var(--dl-layout-size-small);
+  align-self: flex-end;
+}
+ 
+.booking1-price20 {
+  gap: var(--dl-layout-space-twounits);
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.booking1-price21 {
+  gap: var(--dl-layout-space-halfunit);
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.booking1-text38 {
+  font-style: normal;
+  font-weight: 600;
+}
+ 
+.booking1-text39 {
+  font-size: 48px;
+}
+ 
+.booking1-list3 {
+  gap: var(--dl-layout-space-unit);
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.booking1-list-item17 {
+  gap: var(--dl-layout-space-unit);
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.booking1-list-item18 {
+  gap: var(--dl-layout-space-unit);
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.booking1-list-item19 {
+  gap: var(--dl-layout-space-unit);
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.booking1-list-item20 {
+  gap: var(--dl-layout-space-unit);
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.booking1-list-item21 {
+  gap: var(--dl-layout-space-unit);
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.booking1-button6 {
+  width: 100%;
+}
+ 
+.booking1-fragment10 {
+  display: contents;
+}
+ 
+.booking1-text47 {
+  display: inline-block;
+}
+ 
+.booking1-fragment11 {
+  display: contents;
+}
+ 
+.booking1-text48 {
+  display: inline-block;
+}
+ 
+.booking1-fragment12 {
+  display: contents;
+}
+ 
+.booking1-text49 {
+  display: inline-block;
+}
+ 
+.booking1-fragment13 {
+  display: contents;
+}
+ 
+.booking1-text50 {
+  display: inline-block;
+  font-size: 40px;
+}
+ 
+.booking1-fragment14 {
+  display: contents;
+}
+ 
+.booking1-text51 {
+  display: inline-block;
+}
+ 
+.booking1-fragment15 {
+  display: contents;
+}
+ 
+.booking1-text52 {
+  display: inline-block;
+}
+ 
+.booking1-fragment16 {
+  display: contents;
+}
+ 
+.booking1-text53 {
+  display: inline-block;
+}
+ 
+.booking1-fragment17 {
+  display: contents;
+}
+ 
+.booking1-text54 {
+  display: inline-block;
+}
+ 
+.booking1-fragment18 {
+  display: contents;
+}
+ 
+.booking1-text55 {
+  display: inline-block;
+}
+ 
+.booking1-fragment19 {
+  display: contents;
+}
+ 
+.booking1-text56 {
+  display: inline-block;
+}
+ 
+.booking1-fragment20 {
+  display: contents;
+}
+ 
+.booking1-text57 {
+  display: inline-block;
+}
+ 
+.booking1-fragment21 {
+  display: contents;
+}
+ 
+.booking1-text58 {
+  display: inline-block;
+}
+ 
+.booking1-fragment22 {
+  display: contents;
+}
+ 
+.booking1-text59 {
+  display: inline-block;
+  font-family: "STIX Two Text";
+}
+ 
+.booking1-fragment23 {
+  display: contents;
+}
+ 
+.booking1-text60 {
+  display: inline-block;
+  font-family: "STIX Two Text";
+}
+ 
+.booking1-fragment24 {
+  display: contents;
+}
+ 
+.booking1-text61 {
+  display: inline-block;
+  font-family: "STIX Two Text";
+}
+ 
+.booking1-fragment25 {
+  display: contents;
+}
+ 
+.booking1-text62 {
+  display: inline-block;
+  font-size: 40px;
+}
+ 
+.booking1-fragment26 {
+  display: contents;
+}
+ 
+.booking1-text63 {
+  display: inline-block;
+}
+ 
+.booking1-fragment27 {
+  display: contents;
+}
+ 
+.booking1-text64 {
+  display: inline-block;
+}
+ 
+.booking1-fragment28 {
+  display: contents;
+}
+ 
+.booking1-text65 {
+  display: inline-block;
+  font-family: "STIX Two Text";
+}
+ 
+.booking1-fragment29 {
+  display: contents;
+}
+ 
+.booking1-text66 {
+  display: inline-block;
+  font-family: "STIX Two Text";
+}
+ 
+.booking1-fragment30 {
+  display: contents;
+}
+ 
+.booking1-text67 {
+  display: inline-block;
+}
+ 
+.booking1-fragment31 {
+  display: contents;
+}
+ 
+.booking1-text68 {
+  display: inline-block;
+  font-size: 40px;
+}
+ 
+.booking1-fragment32 {
+  display: contents;
+}
+ 
+.booking1-text69 {
+  display: inline-block;
+}
+ 
+.booking1-fragment33 {
+  display: contents;
+}
+ 
+.booking1-text70 {
+  display: inline-block;
+}
+ 
+.booking1-fragment34 {
+  display: contents;
+}
+ 
+.booking1-text71 {
+  display: inline-block;
+}
+ 
+.booking1-fragment35 {
+  display: contents;
+}
+ 
+.booking1-text72 {
+  display: inline-block;
+}
+ 
+.booking1-fragment36 {
+  display: contents;
+}
+ 
+.booking1-text73 {
+  display: inline-block;
+  font-family: "STIX Two Text";
+}
+ 
+.booking1-fragment37 {
+  display: contents;
+}
+ 
+.booking1-text74 {
+  display: inline-block;
+}
+ 
+.booking1-fragment38 {
+  display: contents;
+}
+ 
+.booking1-text75 {
+  display: inline-block;
+}
+ 
+.booking1-fragment39 {
+  display: contents;
+}
+ 
+.booking1-text76 {
+  display: inline-block;
+}
+ 
+.booking1-fragment40 {
+  display: contents;
+}
+ 
+.booking1-text77 {
+  display: inline-block;
+}
+ 
+.booking1-fragment41 {
+  display: contents;
+}
+ 
+.booking1-text78 {
+  display: inline-block;
+}
+ 
+.booking1-fragment42 {
+  display: contents;
+}
+ 
+.booking1-text79 {
+  display: inline-block;
+}
+ 
+.booking1-fragment43 {
+  display: contents;
+}
+ 
+.booking1-text80 {
+  display: inline-block;
+}
+ 
+.booking1-fragment44 {
+  display: contents;
+}
+ 
+.booking1-text81 {
+  display: inline-block;
+}
+ 
+.booking1-fragment45 {
+  display: contents;
+}
+ 
+.booking1-text82 {
+  display: inline-block;
+}
+ 
+.booking1-fragment46 {
+  display: contents;
+}
+ 
+.booking1-text83 {
+  display: inline-block;
+}
+ 
+
+ 
+
+ 
+@media(max-width: 991px) {
+  .booking1-container1 {
+    flex-direction: column;
+  }
+  .booking1-column3 {
+    width: 100%;
+  }
+  .booking1-container2 {
+    flex-direction: column;
+  }
+  .booking1-column6 {
+    width: 100%;
+  }
+}
+ 
+@media(max-width: 479px) {
+  .booking1-max-width {
+    gap: var(--dl-layout-space-oneandhalfunits);
+  }
+  .booking1-button1 {
+    width: 100%;
+  }
+  .booking1-button2 {
+    width: 100%;
+  }
+  .booking1-button3 {
+    width: 100%;
+  }
+  .booking1-button4 {
+    width: 100%;
+  }
+  .booking1-button5 {
+    width: 100%;
+  }
+  .booking1-button6 {
+    width: 100%;
+  }
+  .booking1root-class-name1 {
+    width: auto;
+    align-self: center;
+  }
+}
